@@ -1,2 +1,2 @@
 # project-team05
-![Untitled](https://github.com/team05-MLOps-pipeline/project-team05/assets/89466243/45239c74-7bbc-4cc1-9538-a689dbacd106)
+![image](https://github.com/user-attachments/assets/693a3adf-4b21-41bd-8d96-a0dea12a1eac)
